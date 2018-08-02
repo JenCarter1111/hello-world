@@ -2,6 +2,6 @@
 
 Hello There! 
 
-I'm Jen Carter, a full stack developer from Arkansas. I'm excited to create fun meaningful projects in Javascript, React, Ruby and Ruby on Rails. 
+I'm Jen Carter, a full stack developer from Arkansas. I'm excited to contribute to fun meaningful projects using Javascript, React, Ruby and Ruby on Rails. 
 
-Thanks for stopping by !
+Thanks for stopping by!
